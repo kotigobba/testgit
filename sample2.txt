@@ -1,2 +1,6 @@
 this is another file created
+<<<<<<< HEAD
 this new content added to master branch
+=======
+now its time to merge the file
+>>>>>>> quickUpdates
